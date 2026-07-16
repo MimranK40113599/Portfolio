@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 // Hard-coding base to '/' since we're using a custom domain
 // This ensures assets are loaded from the root of amazingmoaaz.online
-const base = "/Portfolio";
+const base = "/portfolio";
 
 export default defineConfig({
   base,
